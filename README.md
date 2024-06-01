@@ -11,8 +11,6 @@
 - 💡 I'm constantly exploring new technologies and looking to contribute in **Cloud Computing**.
 - 💬 Ask me about anything tech-related, I love discussing ideas and solving problems!
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I'm a huge fan of K-pop and enjoy listening to music while coding!
-
 ## Interests 🚀
 - **Software Development**
 - **DSA (Data Structures and Algorithms)**
