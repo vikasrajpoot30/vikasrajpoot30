@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **software development**, **DSA (Data Structures and Algorithms)**, **CP (Competitive Programming)**, and **web development**.
 - 💡 I'm constantly exploring new technologies and looking to contribute in **Cloud Computing**.
 - 💬 Ask me about anything tech-related, I love discussing ideas and solving problems!
-- 😄 Pronouns: **he/him**
+
 ## Interests 🚀
 - **Software Development**
 - **DSA (Data Structures and Algorithms)**
