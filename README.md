@@ -4,7 +4,7 @@
 </div>
 
 ## Vikas Rajpoot 🎓
-- 💼 Graduated with an **MSc in Mathematics and Computing** from IIT Guwahati.
+- 💼 Graduated with an **M.S. in Mathematics and Computing** from IIT Guwahati.
 
 ## About Me ℹ️
 - 🌱 I’m currently learning **software development**, **DSA (Data Structures and Algorithms)**, **CP (Competitive Programming)**, and **web development**.
