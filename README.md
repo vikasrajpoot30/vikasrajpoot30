@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <p>Welcome to my GitHub profile!</p>
 </div>
 
 ## Vikas Rajpoot 🎓
@@ -10,11 +9,6 @@
 - 🌱 I’m currently learning **software development**, **DSA (Data Structures and Algorithms)**, **CP (Competitive Programming)**, and **web development**.
 - 💬 Ask me about anything tech-related, I love discussing ideas and solving problems!
 
-## Interests 
-- **Software Development**
-- **DSA (Data Structures and Algorithms)**
-- **CP (Competitive Programming)**
-- **UI/UX Design**
 
 ## Connect with Me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Rajpoot-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vikas-rajpoot)
